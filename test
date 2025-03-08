@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 // do the thing you do
 if (out != null) {
 public static void main(String[] args)
