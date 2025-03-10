@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public void fetch() throws SQLException, IOException
 // do the thing you do
