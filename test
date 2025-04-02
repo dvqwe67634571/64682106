@@ -1,3 +1,4 @@
+// error processing code
 public void fetch() throws SQLException, IOException
 Connection con;
 rs.close();
